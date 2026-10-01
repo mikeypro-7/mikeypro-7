@@ -2,6 +2,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/mikeypro-7?label=Follow&style=social)](https://github.com/mikeypro-7)
 [![Profile Views](https://komarev.com/ghpvc/?username=mikeypro-7&color=blue&style=flat-square)](https://github.com/mikeypro-7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Kuppala-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-kuppala-40960a395/)
 
 ---
 
@@ -54,6 +55,7 @@ Welcome to my GitHub profile! I am passionate about deep technology, computing s
 
 ### 📬 Connect With Me
 
+- **LinkedIn:** [Pranay Kuppala](https://www.linkedin.com/in/pranay-kuppala-40960a395/)
 - **GitHub:** [@mikeypro-7](https://github.com/mikeypro-7)
 - **Certificates & Achievements:** [mikeypro-7/Certifications](https://github.com/mikeypro-7/Certifications)
 
