@@ -80,6 +80,7 @@ Welcome to my GitHub profile! I am passionate about deep technology, computing s
 - **LinkedIn:** [Pranay Kuppala](https://www.linkedin.com/in/pranay-kuppala-40960a395/)
 - **GitHub:** [@mikeypro-7](https://github.com/mikeypro-7)
 - **Certificates & Achievements:** [mikeypro-7/Certifications](https://github.com/mikeypro-7/Certifications)
+- **Documentation & Wiki:** [Certifications Wiki](https://github.com/mikeypro-7/Certifications/wiki)
 
 ---
 
